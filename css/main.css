@@ -7,5 +7,12 @@
 	left: 0;
 	border-radius: .37rem;
 	box-shadow: 5px 10px 20px grey;
+	background: "#00000000";
 	/* border: 1px solid black; */
+}
+
+.sticky-btn-ndkshr {
+	margin: 8px;
+	border-radius: .37rem;
+	box-shadow: 5px 10px 20px grey;
 }
